@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    
+}
+*{
+    background-color:black;
+    margin: 0%;
+    padding: 0%;
+}
+#header1{
+    text-align: center;
+    color: aliceblue;
+}
+.words1{
+    text-align: center;
+    color: aliceblue;
+}
+
+.k{
+    
+    color: aliceblue;
+    list-style: none;
+    display: inline-block;
+    cursor: pointer;
+    transition: color 0.5s;
+    padding: 10px;
+    margin-left: 100px;
+
+}
+.k:hover{
+    color:darkred
+}
+
+.div2{
+    display: flex;
+
+}
+.paragraph p{
+    color: aliceblue;
+     line-height: 35.3px;
+     margin: 121px;
+     text-align: center;
+     letter-spacing: -0.6px;
+     padding: 2px;
+     font-family: Roboto, sans-serif;
+     
+
+}
+.photo {
+    text-align: center;
+}
+
+
+.social{
+    display: flexs;
+
+}
+.icon1{
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 450px;
+    top: 175px;
+}
+
+
+.icon2
+{
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 550px; 
+    top: 175px; 
+}
+.icon3
+{
+    border-radius:15px;
+    width: 30px;
+    height: 30px;
+      position: relative;
+    left: 650px;
+    top: 175px;
+}
+ .icon4
+ {
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 750px;
+    top: 175px;
+ } 
+ .social:hover{
+    color: brown;
+
+ }
+.end{
+    color: aliceblue;
+    text-align: center;
+    top: 250px;
+    position: relative;
+}
